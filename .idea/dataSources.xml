@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="gp" uuid="2e920b7b-20dc-4c24-9bb2-1fdf13a3d1ef">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:F:\applications\xampp\htdocs\gp\database\gp.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
